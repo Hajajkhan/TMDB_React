@@ -1,0 +1,57 @@
+.navBarInner {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+li {
+  list-style: none;
+  display: inline;
+  padding: 10px;
+  cursor: pointer;
+}
+.left {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.right {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 30%;
+  align-items: center;
+}
+
+/*
+* Main Data Style under the NavBAr
+*/
+
+.MainData {
+  background-color: #1c92d2;
+}
+.MainDataInner {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.textField {
+  padding: 10px;
+}
+
+/***
+*/
+.MainPage {
+  margin-top: 10px;
+}
+#demo-simple-select {
+  width: 250px;
+}
+.MainPageData {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+.grid {
+  margin-top: 10px;
+}
