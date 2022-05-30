@@ -1,3 +1,28 @@
+# TMDB APP
+This app is created on the base of showing multiple type of movies by fetching from data base with their details and ratings. We can search any movie that will comes from data base. we have fetched api from TMDB app.
+
+# Stack
+- React JS
+- Material UI
+- TMDB Api's
+
+# UI Preview
+- Main Page of TMDB App
+![tmdb1](https://user-images.githubusercontent.com/58617259/170989699-135381b5-dae9-4394-997f-ce2bbf872213.png)
+
+- Single Movie Preview on selection
+![tmdb2](https://user-images.githubusercontent.com/58617259/170989870-5e2a98c3-4516-4682-99ef-23016df0ee1b.png)
+
+- Preview of Detail Page of a Selected Movie
+![tmdb3](https://user-images.githubusercontent.com/58617259/170990306-08d53ee2-a4c3-43f8-bf0c-9c3eac32bfd8.png)
+
+
+- Similar Movies and Reviews related to your Selected Movie
+![tmdb4](https://user-images.githubusercontent.com/58617259/170990369-13169487-8fb1-4c19-99b7-f7b8924c1db7.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
